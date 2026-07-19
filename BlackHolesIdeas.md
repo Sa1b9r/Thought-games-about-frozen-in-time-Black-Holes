@@ -5,7 +5,7 @@ It does not pretend to be a serious academic paper, nor does it claim absolute s
 Please read this text purely as a curious conceptual framework and an informal, engineering-minded perspective rather than a professional or authoritative work.
 
 Also there aren't any plans about adding maths to this mind game by myself
-But feel free to do with this information whatever you want to do!
+but feel free to do with this information whatever you want to do!
 
 ## Introduction
 
